@@ -2,7 +2,7 @@ A command-line application with an entrypoint in `bin/`, library code
 in `lib/`, and unit tests in `test/`.
 
 # How to run
-First of if you do not have the dart sdk installed, you can visit the flutter website https://flutter.dev/ and install it 
+First off if you do not have the dart sdk installed, you can visit the flutter website https://flutter.dev/ and install it 
 
 Next up download this code's zip file and extract it.
 
