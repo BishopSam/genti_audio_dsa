@@ -21,4 +21,4 @@ int findMissing(List<int> arr){
         return total;
 }
 //* Time Complexity: Linear O(n) where n is the size of the input number
-//* Space Complexity: Linear O(n) complexity where n is the size of the input number
+//* Space Complexity: Constant O(1) complexity
